@@ -4,13 +4,13 @@ Multiple choice question management system is built by Java Swing &amp; JDBC API
 # Screen Shots
 ![pic1](Untitled.png)
 <br>
-![pic2](http://~)
+![pic2]((Untitled1.png)
 <br>
-![pic3](http://~)
+![pic3]((Untitled2.png)
 <br>
-![pic4](http://~)
+![pic4]((Untitled3.png)
 <br>
-![pic5](http://~)
+![pic5]((Untitled4.png)
 <br>
-![pic6](http://~)
+![pic6]((Untitled5.png)
 # Demo
