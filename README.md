@@ -2,20 +2,21 @@
 Multiple choice question management system is built by Java Swing &amp; JDBC API (MySQL)
 # Instruction
 # Screen Shots
-Main Interface
+**Main Interface**
 ![pic1](Untitled.png)
 <br><br><br>
-Sign-up Page
+**Sign-in Page**
 ![pic2](Untitled1.png)
 <br><br><br>
-Admin Page
+**Admin Page**
 ![pic3](Untitled2.png)
 <br><br><br>
-User's Detailed Info Page.png)
+**User's Detailed Info Page**
+![pic4](Untitled3.png)
 <br><br><br>
-Multiple Choice Test
+**Multiple Choice Test**
 ![pic5](Untitled4.png)
 <br><br><br>
-Result Test Page
+**Result Test Page**
 ![pic6](Untitled5.png)
 # Demo
