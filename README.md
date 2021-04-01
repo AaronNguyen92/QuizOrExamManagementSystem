@@ -3,26 +3,26 @@ Multiple choice question management system is built by Java Swing &amp; JDBC API
 # Instruction
 # Screen Shots
 **Main Interface**
-<br>
+<br><br>
 ![pic1](Untitled.png)
 <br><br><br>
 **Sign-in Page**
-<br>
+<br><br>
 ![pic2](Untitled1.png)
 <br><br><br>
 **Admin Page**
-<br>
+<br><br>
 ![pic3](Untitled2.png)
 <br><br><br>
 **User's Detailed Info Page**
-<br>
+<br><br>
 ![pic4](Untitled3.png)
 <br><br><br>
 **Multiple Choice Test**
-<br>
+<br><br>
 ![pic5](Untitled4.png)
 <br><br><br>
 **Result Test Page**
-<br>
+<br><br>
 ![pic6](Untitled5.png)
 # Demo
