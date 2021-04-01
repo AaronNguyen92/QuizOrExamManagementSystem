@@ -2,7 +2,7 @@
 Multiple choice question management system is built by Java Swing &amp; JDBC API (MySQL)
 # Instruction
 # Screen Shots
-![pic1](Untitle.png)
+![pic1](Untitled.png)
 <br>
 ![pic2](http://~)
 <br>
