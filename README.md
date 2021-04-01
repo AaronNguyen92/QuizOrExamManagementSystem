@@ -25,6 +25,7 @@ Multiple choice question management system is built by Java Swing &amp; JDBC API
 **Result Test Page**
 <br><br>
 ![pic6](Untitled5.png)
+<br><br><br>
 **Register Member Page**
 <br><br>
 ![pic7](Untitled6.png)
