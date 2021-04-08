@@ -1,6 +1,6 @@
 # QuizOrExamManagementSystem
-Multiple choice question management system is built by Java Swing &amp; JDBC API (MySQL)
-**Quiz data flowchart**<br><br><br>
+Multiple choice question management system is built by Java Swing &amp; JDBC API (MySQL)<br><br>
+🔶**Quiz data flowchart**<br><br><br>
 ![FlowChart](quiz_flowchart.png)
 <br><br>
 🔴***Home Page:*** chooses to enter or quiz program.
