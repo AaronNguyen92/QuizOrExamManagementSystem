@@ -3,7 +3,7 @@ Multiple choice question management system is built by Java Swing &amp; JDBC API
 🔶**Quiz application data flowchart**<br><br>
 ![FlowChart](quiz_flowchart.png)
 <br><br>
-🔴***Home Page:*** chooses to enter or quiz program.<br>
+🔴***Home Page:*** chooses to enter or quit program.<br>
 🔴***Log in system:*** can choose to go to Admin Page or User Page or Sign-Up New User.<br>
 🔴***Admin Page:*** manages Users and Questions.<br>
 🔴***User Page:*** members can modify own personal infomation or participant in Test.<br>
