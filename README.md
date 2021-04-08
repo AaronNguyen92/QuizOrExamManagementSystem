@@ -1,5 +1,5 @@
 # QuizOrExamManagementSystem
-Multiple choice question management system is built by Java Swing &amp; JDBC API (MySQL)<br>
+Multiple choice question management system is built by Java Swing &amp; JDBC API (MySQL)<br><br>
 🔶**Quiz data flowchart**<br><br>
 ![FlowChart](quiz_flowchart.png)
 <br><br>
@@ -11,7 +11,7 @@ Multiple choice question management system is built by Java Swing &amp; JDBC API
 🔴***Quiz Test:*** members will complete a Test during 10 minutes with 10 questions, each question includes 4 options.<br>
 🔴***Result Page:*** displays user's score, then member can take the test again or close program.
 # 🔷Database
-Creating Quiz Database with 2 table: User & Question
+Creating Quiz Database with 2 table: User & Question<br>
 ![pic0](db_quiz.png)
 # 🔷Screen Shots
 **Main Interface**
