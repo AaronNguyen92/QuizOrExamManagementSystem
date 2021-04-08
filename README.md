@@ -5,8 +5,8 @@ Multiple choice question management system is built by Java Swing &amp; JDBC API
 <br><br>
 🔴***Home Page:*** chooses to enter or quiz program.<br>
 🔴***Log in system:*** can choose to go to Admin Page or User Page or Sign-Up New User.<br>
-🔴***Admin Page:*** manage Users and Questions.<br>
-🔴***User Page:*** member can modify own personal infomation or participant in Test.<br>
+🔴***Admin Page:*** manages Users and Questions.<br>
+🔴***User Page:*** members can modify own personal infomation or participant in Test.<br>
 🔴***Sign-Up New User Page:*** guests need to fill in all of cells, select your avatar from PC and then go to User Page.<br>
 🔴***Quiz Test:*** members will complete a Test during 10 minutes with 10 questions, each question includes 4 options.<br>
 🔴***Result Page:*** displays user's score, then member can take the test again or close program.
